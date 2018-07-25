@@ -16,7 +16,7 @@
 title: THL's Stuff
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A programming blog about random things that I've done.
+  Random things that I've done.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com 
 github_username:  tanhanliang
