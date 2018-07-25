@@ -22,11 +22,6 @@ Docker does not come with native support for Nvidia Graphics Processing Units (G
 * <b>Quick environment setup</b> (which can be a real PITA otherwise)
 * <b>Isolation</b> of dependencies for different applications (and avoid dependency hell, which can also be a real PITA)
 
-<figure>
-  <img src="/assets/pita.jpeg" alt="my alt text" height="100px" width="100px" />
-  <figcaption>PITA</figcaption>
-</figure>
-
 ## Why not to use Docker
 * <b>Performance degradation:</b> Applications run in Docker containers may take a slight performance hit. See Docker benchmarks in the 'References' section. 
   * Compression workloads (<a href="https://jnovy.fedorapeople.org/pxz/">PXZ</a>): ~ 4% performance hit
