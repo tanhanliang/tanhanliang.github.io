@@ -58,6 +58,11 @@ docker start <container-name>
 docker attach <container-name>
 ~~~
 
+## Open additional terminals in running container
+~~~shell
+docker exec -it <container-name> <terminal-location>
+~~~
+
 ## See all containers
 ~~~shell
 docker ps -a
