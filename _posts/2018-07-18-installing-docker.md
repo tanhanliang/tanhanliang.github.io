@@ -2,7 +2,7 @@
 layout:		post
 title: 		"Installing nvidia-docker on Ubuntu 18.04"
 date: 		2018-07-18
-categories:	installing-stuff
+categories:	install-guide
 ---
 
 ## What is this
